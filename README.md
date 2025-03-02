@@ -8,33 +8,6 @@ Bem-vindo ao repositório centralizado para o armazenamento e documentação de 
 
 - **Diagramas de Processos:**  
   Aqui estão armazenados os diagramas de processos para referência e consulta. Eles devem seguir as melhores práticas de design de processos, utilizando nomenclatura clara e padronizada.
-
----
-
-## 🔄 Processos Atuais  
-
-### 🖥️ Solicitação de Equipamento  
-**Descrição:** Este processo detalha as etapas para solicitar equipamentos de TI, como notebooks, desktops, monitores, e outros periféricos.  
-
-#### Fluxo Resumido:  
-1. **Abertura de Chamado:**  
-   - O usuário abre um chamado via sistema de gestão de tickets (ex.: Jira Service Management).  
-
-2. **Validação da Solicitação:**  
-   - O setor responsável verifica a necessidade do equipamento e aprova ou devolve para ajustes.  
-
-3. **Análise de Estoque:**  
-   - É feita uma consulta no estoque para verificar a disponibilidade do equipamento solicitado.  
-
-4. **Autorização:**  
-   - Caso necessário, a solicitação segue para aprovação do gestor responsável.  
-
-5. **Entrega do Equipamento:**  
-   - O equipamento é configurado e entregue ao solicitante.  
-
-6. **Atualização do Sistema:**  
-   - Registro da entrega e associação do equipamento ao colaborador no sistema de inventário.  
-
 ---
 
 ## 📋 Diretrizes para Atualizações  
@@ -48,15 +21,6 @@ Bem-vindo ao repositório centralizado para o armazenamento e documentação de 
 
 3. **Contribuições:**  
    - Sugestões e atualizações devem ser submetidas via pull request.  
-
----
-
-## 🌟 Futuras Adições  
-
-- **Processo de Gerenciamento de Incidentes.**  
-- **Fluxo de Solicitação de Acesso.**  
-- **Processo de Backup e Recuperação de Dados.**  
-- **Gerenciamento de Atualizações de Software.**  
 
 ---
 
